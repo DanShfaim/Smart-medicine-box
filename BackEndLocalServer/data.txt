@@ -1,0 +1,7 @@
+Led on cell number #4 turns on at: 2018-08-01 11:31:17
+Med Taken from cell #4 at: 2018-08-01 11:31:33
+Led on cell number #4 turns on at: 2018-08-01 11:36:11
+Med Taken from cell #4 at: 2018-08-01 11:36:16
+Led on cell number #4 turns on at: 2018-08-01 11:38:31
+Led on cell number #4 turns on at: 2018-08-01 12:20:53
+Med Taken from cell #4 at: 2018-08-01 12:21:11
